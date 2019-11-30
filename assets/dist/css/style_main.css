@@ -1,0 +1,45 @@
+/* Body */
+/* ~~~~~~~~~~~~~~~~ */
+
+/* Buttons */
+.add-btn, .save-btn {
+    margin-left: 15px;
+}
+
+
+
+/* Borderless Table */
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none !important;
+}
+
+
+/* Homepage CSS */
+/* ~~~~~~~~~~~~~~~~ */
+
+/* Homepage Chart */
+.homepage_charts {
+    margin: 0px 10px 20px 10px;
+}
+
+
+/* Products CSS */
+/* ~~~~~~~~~~~~~~~~ */
+
+/* Select2 */
+.form-group {
+    margin-bottom: 0px;
+}
+
+/* Warehouse CSS */
+/* ~~~~~~~~~~~~~~~~ */
+
+/* Homepage Chart */
+.warehouse_chart {
+    margin: 0px 0px 20px 0px;
+}
